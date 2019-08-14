@@ -1,0 +1,32 @@
+using System;
+
+namespace Plataformas_de_programación_empresarial
+{
+    class Program
+    {
+        
+        static void main(String []args){
+
+            Console.WriteLine("Ingrese el numero de la serie que quiere saber");
+            Program.main.numero limite = int.Parse(Console.ReadLine);
+            Program.main.numero();   
+        }
+
+        
+        
+
+        public void numero(){
+
+            int a, b, i, aux, limite;
+            for(i=0;i<limite;i++){
+                aux = a;
+                a=b;
+                b=aux+a;
+                Console.WriteLine();
+            }
+            return true;
+        } 
+    } 
+}   
+
+     

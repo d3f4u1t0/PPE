@@ -1,0 +1,11 @@
+C:\Users\Bryan\Documents\Grone\Universidad\2019-ll\Plataformas de programación empresarial\bin\Debug\netcoreapp2.1\Plataformas de programación empresarial.deps.json
+C:\Users\Bryan\Documents\Grone\Universidad\2019-ll\Plataformas de programación empresarial\bin\Debug\netcoreapp2.1\Plataformas de programación empresarial.runtimeconfig.json
+C:\Users\Bryan\Documents\Grone\Universidad\2019-ll\Plataformas de programación empresarial\bin\Debug\netcoreapp2.1\Plataformas de programación empresarial.runtimeconfig.dev.json
+C:\Users\Bryan\Documents\Grone\Universidad\2019-ll\Plataformas de programación empresarial\bin\Debug\netcoreapp2.1\Plataformas de programación empresarial.dll
+C:\Users\Bryan\Documents\Grone\Universidad\2019-ll\Plataformas de programación empresarial\bin\Debug\netcoreapp2.1\Plataformas de programación empresarial.pdb
+C:\Users\Bryan\Documents\Grone\Universidad\2019-ll\Plataformas de programación empresarial\obj\Debug\netcoreapp2.1\Plataformas de programación empresarial.csprojAssemblyReference.cache
+C:\Users\Bryan\Documents\Grone\Universidad\2019-ll\Plataformas de programación empresarial\obj\Debug\netcoreapp2.1\Plataformas de programación empresarial.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\Grone\Universidad\2019-ll\Plataformas de programación empresarial\obj\Debug\netcoreapp2.1\Plataformas de programación empresarial.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\Grone\Universidad\2019-ll\Plataformas de programación empresarial\obj\Debug\netcoreapp2.1\Plataformas de programación empresarial.AssemblyInfo.cs
+C:\Users\Bryan\Documents\Grone\Universidad\2019-ll\Plataformas de programación empresarial\obj\Debug\netcoreapp2.1\Plataformas de programación empresarial.dll
+C:\Users\Bryan\Documents\Grone\Universidad\2019-ll\Plataformas de programación empresarial\obj\Debug\netcoreapp2.1\Plataformas de programación empresarial.pdb
